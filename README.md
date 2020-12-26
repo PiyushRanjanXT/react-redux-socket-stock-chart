@@ -26,7 +26,7 @@ Install static server globaly.<br /><br />
 Run the app on static server.<br />
 vist [http://localhost:5000/](http://localhost:5000/)<br /><br />
 
-Run integration test from another shell application should be running to run integration test.
+Run integration test from another shell, application should be running to run integration test.
 
 ### `npm run cypress`
 
