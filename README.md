@@ -1,5 +1,10 @@
 # React, Redux, Socket and Stock Chart App
 
+## Prerequisite
+
+Node `v12.19.0`
+npm `6.14.8`
+
 ## Available Scripts
 
 In the project directory, you can run:
