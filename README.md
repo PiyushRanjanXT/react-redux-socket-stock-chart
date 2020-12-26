@@ -5,7 +5,7 @@
 Node `v12.19.0`
 npm `6.14.8`
 
-## Available Scripts
+## Setup Instructions 
 
 In the project directory, you can run:
 
