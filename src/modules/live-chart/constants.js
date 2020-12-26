@@ -1,0 +1,5 @@
+
+export const INIT_SOCKET = 'INIT_SOCKET';
+export const CLOSE_SOCKET = 'CLOSE_SOCKET';
+export const DATA_RECEIVED = 'DATA_RECEIVED';
+export const CLEAR_LIVE_CHART_DATA = 'CLEAR_LIVE_CHART_DATA';
