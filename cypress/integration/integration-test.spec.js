@@ -2,7 +2,7 @@
 
 context("App load and navigation", () => {
   beforeEach(() => {
-    cy.visit("http://localhost:3000");
+    cy.visit("http://localhost:5000");
   });
 
   it("auto navigate to /dashboard when home page opens", () => {
