@@ -43,6 +43,6 @@ Alternativly you may run dev build as well by running
 ### ```npm start```
 
 Visit [http://localhost:3000/](http://localhost:3000/)<br />
-Please Note: if you are running application in dev mode, Please chage application url to http://localhost:3000/ in `cypress/integration/integration-test.spec.js` line number 5
+Please Note: if you are running application in dev mode, Please chage application url to http://localhost:3000/ in `cypress/integration/integration-test.spec.js` line number 5 before running integration test.
 
 <br />
