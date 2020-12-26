@@ -36,4 +36,13 @@ verify scrrenshot in `cypress/screenshot` folder <br /><br />
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
+Launches the test runner in the interactive watch mode.<br /><br />
+
+Alternativly you may run dev build as well by running
+
+### ```npm start```
+
+Visit [http://localhost:3000/](http://localhost:3000/)<br />
+Please Note: if you are running application in dev mode, Please chage application url to http://localhost:3000/ in `cypress/integration/integration-test.spec.js` line number 5
+
+<br />
