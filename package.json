@@ -1,5 +1,5 @@
 {
-  "name": "my-pwa-react-app",
+  "name": "react-stock-chart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
