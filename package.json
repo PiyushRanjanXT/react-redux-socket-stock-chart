@@ -9,6 +9,7 @@
     "bootstrap": "^4.5.3",
     "highcharts": "^8.2.2",
     "highcharts-react-official": "^3.0.0",
+    "json-server": "^0.16.3",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
@@ -36,7 +37,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "cypress": "cypress open"
   },
   "eslintConfig": {
     "extends": [
@@ -57,6 +59,7 @@
     ]
   },
   "devDependencies": {
+    "cypress": "^6.2.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.5",
     "enzyme-to-json": "^3.6.1",
